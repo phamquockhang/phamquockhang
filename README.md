@@ -11,7 +11,7 @@
 
 ### **<h3>🧐 About Me:</h3>**
 
-- 🎓 Final-year student at **Can Tho University**
+//- 🎓 Final-year student at **Can Tho University**
 - 💼 Passionate about becoming an excellent **Backend Developer**
 - 📚 Currently focusing on **Java & Spring Boot**
 
