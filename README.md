@@ -11,9 +11,8 @@
 
 ### **<h3>🧐 About Me:</h3>**
 
-//* - 🎓 Final-year student at **Can Tho University** *//
 - 💼 Passionate about becoming an excellent **Backend Developer**
-- 📚 Currently focusing on **Java & Spring Boot**
+- 📚 Currently focusing on **Java (Spring Boot)**
 
 ### **<h3>🌍 Connect with Me: <span style="margin-left: 10px; font-family: 'Arial', sans-serif; font-size: 14px; color: #1a73e8; text-decoration: none; transition: color 0.3s ease; display: inline-block;" onMouseOver="this.style.color='#ff4500'" onMouseOut="this.style.color='#1a73e8'">phamquockhang1108@gmail.com</span></h3>**
 
